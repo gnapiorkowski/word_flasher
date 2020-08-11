@@ -8,6 +8,6 @@ python -m pip install pysimplegui pyaudio
 
 to install these libraries after you have installed Python 3
 
-Screenshot:
+Screenshot of Qt version (contact me for this version):
 
 ![ screenshot.png ]( https://raw.githubusercontent.com/gnapiorkowski/word_flasher/master/screen.png )
