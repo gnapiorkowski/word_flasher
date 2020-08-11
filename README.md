@@ -1,4 +1,4 @@
-This is a simple program that flashes words and records with your default mic. You need Python 3, PySimpleGUI and PyAudio to run this. Use 
+This is a simple program that flashes words and records with your default mic. You need Python 3, PySimpleGUI and PyAudio to run this. Use following to install these libraries after you have installed Python 3.
 
 ```bash
 pip install pysimplegui pyaudio
@@ -13,8 +13,6 @@ pip install pipwin
 # Add pipwin to PATH as prompted during install
 pipwin install pyaudio
 ```
-
-to install these libraries after you have installed Python 3
 
 Screenshot of Qt version (contact me for this version):
 
