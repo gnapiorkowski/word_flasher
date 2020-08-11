@@ -6,6 +6,14 @@ or
 python -m pip install pysimplegui pyaudio
 ```
 
+If you have troube installing pyaudio try it with pipwin
+
+```bash
+pip install pipwin
+# Add pipwin to PATH as prompted during install
+pipwin install pyaudio
+```
+
 to install these libraries after you have installed Python 3
 
 Screenshot of Qt version (contact me for this version):
