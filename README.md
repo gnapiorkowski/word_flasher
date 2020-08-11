@@ -10,4 +10,6 @@ to install these libraries after you have installed Python 3
 
 Screenshot of Qt version (contact me for this version):
 
-![ screenshot.png ]( https://raw.githubusercontent.com/gnapiorkowski/word_flasher/master/screen.png )
+![ Linux ]( https://raw.githubusercontent.com/gnapiorkowski/word_flasher/master/screen.png )
+
+![ Windows ]( https://raw.githubusercontent.com/gnapiorkowski/word_flasher/master/screen2.png )
