@@ -1,4 +1,9 @@
-This is a simple program that flashes words and records with your default mic. You need Python 3, PySimpleGUI and PyAudio to run this. Use following to install these libraries after you have installed Python 3.
+This is a simple program that flashes words and records with your default mic. 
+You can run word_flasher.exe. You need file named words_list.txt in the same folder as word_flasher.exe is launched it has to contain words that you want the program to flash (separate words with new lines like in the example given).
+
+If you want to run this as a script:
+
+You need Python 3, PySimpleGUI and PyAudio to run this. Use following to install these libraries after you have installed Python 3.
 
 ```bash
 pip install pysimplegui pyaudio
